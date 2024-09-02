@@ -1,37 +1,19 @@
-<div align = "center">
-
-[![Follow on Twitter](https://img.shields.io/badge/Follow-X-212529?labelColor=4dabf7&style=flat-square)](https://x.com/suriyasingh001)
-[![Follow on Linkedin](https://img.shields.io/badge/Follow-LinkedIn-0077B5?labelColor=4dabf7&style=flat-square)](https://www.linkedin.com/in/suriya-sampath-195ba3100/)
-[![Connect in Gmail](https://img.shields.io/badge/Connect-Gmail-ff6b6b?labelColor=4dabf7&style=flat-square)](mailto:suriyasingh001@gmail.com)
-
-[![Support on Github Sponsors](https://img.shields.io/badge/❤️-Sponsor-f06595?labelColor=4dabf7&style=flat-square)](https://github.com/sponsors/ssuriyayuvan)
-
-Hi :wave:
-
-I am Suriya, a Full Stack Dev (Web and Mobile). 
+# 💫 About Me:
+🔭 I’m currently working on Srinsoft Technologies<br> 🌱 I’m currently learning interesting stuff...surprise...<br> 🤔 I’m looking for help with RPA<br> 💬 Ask me about ...<br> 📫 How to reach me: suriyasingh001@gmail.com
 
 
-If you would like to discuss something, just drop me an [email](mailto:suriyasingh001@gmail.com) :)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suriya-sampath-195ba3100/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Fine_Issue_9048) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8882491) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@suriyasingh001) 
 
- <!-- @Suriya's GitHub Statistics by Anuraghazra -->
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ssuriyayuvan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuriyayuvan&show_icons=true&theme=tokyonight&custom_title=Suriya's%20GitHub%20Statistics&border_radius=20.0&border_color=2f353b)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ssuriyayuvan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🏆 GitHub Profile Trophy
+---
+[![](https://visitcount.itsvg.in/api?id=ssuriyayuvan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ssuriyayuvan&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img align="left" width="180" height="220" alt="Elavarasan PL" src="https://sdk.bitmoji.com/render/panel/46cf02ca-eacf-4047-8bea-ec1cb5acbc87-c861c0de-4d42-41dc-a91f-e6719cec8e66-v1.png?transparent=1&palette=1"/>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Srinsoft Technologies
-- 🌱 I’m currently learning interesting stuff...surprise...
-- 🤔 I’m looking for help with RPA
-- 💬 Ask me about ...
-- 📫 How to reach me: suriyasingh001@gmail.com
-
-<!--
-**ssuriyayuvan/ssuriyayuvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
