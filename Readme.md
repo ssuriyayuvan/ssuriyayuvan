@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Srinsoft Technologies<br> 🌱 I’m currently learning interesting stuff...surprise...<br> 🤔 I’m looking for help with RPA<br> 💬 Ask me about ...<br> 📫 How to reach me: suriyasingh001@gmail.com
+🔭 I’m currently working on Srinsoft Technologies<br> 🌱 I’m currently learning `Pyhton` and `LLM` <br> 🤔 I’m looking for collab<br> 💬 Ask me about anything. If we didn't know then we'll google it.<br> 📫 How to reach me: suriyasingh001@gmail.com
 
 
 ## 🌐 Socials:
